@@ -1,3 +1,3 @@
-# WDNO: Wavelet Diffusion Neural Operator (WDNO)
+# WDNO: Wavelet Diffusion Neural Operator
 
 Coming soon!
