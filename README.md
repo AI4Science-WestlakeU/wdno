@@ -1,2 +1,3 @@
-# wdno
-[ICLR25] Wavelet Diffusion Neural Operator (WDNO) uses diffusion models for generative PDE simulation and control.
+# WDNO: Wavelet Diffusion Neural Operator (WDNO)
+
+Coming soon!
