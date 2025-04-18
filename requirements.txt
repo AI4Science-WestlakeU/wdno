@@ -1,0 +1,16 @@
+h5py
+einops
+accelerate
+ema_pytorch
+tensorboardX
+termcolor
+protobuf==3.20.*
+einops-exts
+rotary-embedding-torch
+shapely
+tqdm
+torchvision
+multiprocess==0.70.15
+matplotlib==3.2.0
+imageio==2.34.1
+scipy==1.8.0
