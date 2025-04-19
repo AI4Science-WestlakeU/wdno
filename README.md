@@ -107,7 +107,7 @@ bash /scripts/smoke/inf_base_control.sh
 ## Related Projects
 * [CL-DiffPhyCon](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) (ICLR 2025): We introduce an improved, closed-loop version of DiffPhyCon. It has an asynchronous denoising schedule for physical systems control tasks and achieves closed-loop control with significant speedup of sampling efficiency.
 
-* [WDNO](https://github.com/AI4Science-WestlakeU/wdno) (ICLR 2025): We propose Wavelet Diffusion Neural Operator (WDNO), a novel method for generative PDE simulation and control, to address diffusion models' challenges of modeling system states with abrupt changes and generalizing to higher resolutions, via performing diffusion in the wavelet space.
+* [DiffPhyCon](https://github.com/AI4Science-WestlakeU/diffphycon) (NeurIPS 2024): We introduce DiffPhyCon which uses diffusion generative models to jointly model control and simulation of complex physical systems as a single task. 
 
 * [CinDM](https://github.com/AI4Science-WestlakeU/cindm) (ICLR 2024 spotlight): We introduce a method that uses compositional generative models to design boundaries and initial states significantly more complex than the ones seen in training for physical simulations.
 
