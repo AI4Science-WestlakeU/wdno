@@ -29,7 +29,7 @@ The checkpoints can be downloaded respectively in [link](https://drive.google.co
 Please place the corresponding checkpoints in the `results` folder under the experiment directory.
 
 ## 1D Burgers' Equation Simulation
-Download with the link above or prepare data for WDNO:
+Prepare data for WDNO:
 ```code
 cd burgers
 python wave_trans.py
@@ -52,7 +52,7 @@ bash /scripts/burgers/eval_super_sim.sh
 ```
 
 ## 2D Smoke Simulation
-Download with the link above or prepare data for WDNO:
+Prepare data for WDNO:
 ```code
 cd smoke
 python wave_trans_2d.py
@@ -75,7 +75,7 @@ bash /scripts/smoke/inf_super_sim.sh
 ```
 
 ## 1D Burgers' Equation Control:
-Download with the link above or prepare data for WDNO:
+Prepare data for WDNO:
 ```code
 cd burgers
 python wave_trans.py
@@ -90,7 +90,7 @@ bash /scripts/burgers/eval_base_control.sh
 ```
 
 ## 2D Smoke Control:
-Download with the link above or prepare data for WDNO:
+Prepare data for WDNO:
 ```code
 cd smoke
 python wave_trans_2d.py
