@@ -116,11 +116,11 @@ If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
 @inproceedings{
-hu2025wavelet,
-title={Wavelet Diffusion Neural Operator},
-author={Peiyan Hu and Rui Wang and Xiang Zheng and Tao Zhang and Haodong Feng and Ruiqi Feng and Long Wei and Yue Wang and Zhi-Ming Ma and Tailin Wu},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=FQhDIGuaJ4}
+  hu2025wavelet,
+  title={Wavelet Diffusion Neural Operator},
+  author={Peiyan Hu and Rui Wang and Xiang Zheng and Tao Zhang and Haodong Feng and Ruiqi Feng and Long Wei and Yue Wang and Zhi-Ming Ma and Tailin Wu},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=FQhDIGuaJ4}
 }
 ```
