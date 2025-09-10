@@ -105,6 +105,8 @@ bash /scripts/smoke/inf_base_control.sh
 ```
 
 ## Related Projects
+* [SafeDiffCon](https://github.com/AI4Science-WestlakeU/safediffcon) (ICML 2025): We propose safe diffusion models for PDE Control, which introduces the uncertainty quantile as model uncertainty quantification to achieve optimal control under safety constraints through both post-training and inference phases.
+
 * [CL-DiffPhyCon](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) (ICLR 2025): We introduce an improved, closed-loop version of DiffPhyCon. It has an asynchronous denoising schedule for physical systems control tasks and achieves closed-loop control with significant speedup of sampling efficiency.
 
 * [DiffPhyCon](https://github.com/AI4Science-WestlakeU/diffphycon) (NeurIPS 2024): We introduce DiffPhyCon which uses diffusion generative models to jointly model control and simulation of complex physical systems as a single task. 
