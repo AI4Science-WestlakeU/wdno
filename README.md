@@ -12,6 +12,8 @@ Framework of WDNO:
 
 <a href="url"><img src="https://github.com/AI4Science-WestlakeU/wdno/blob/main/fig/figures1.png" align="center" width="900" ></a>
 
+## News
+We develop a WDNO that shares a unified input–output interface with standard neural operators in the [RealPDEBench repository](https://github.com/AI4Science-WestlakeU/RealPDEBench).
 
 ## Environment
 Run the following commands to install dependencies. In particular, when running the 2D control task, the Python version must be 3.8 due to the requirement of the Phiflow software.
